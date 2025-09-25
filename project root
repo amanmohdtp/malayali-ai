@@ -1,0 +1,5 @@
+malayali-ai/
+│── streamlit_app.py
+│── about.py
+│── requirements.txt
+│── README.md   ← here in root
